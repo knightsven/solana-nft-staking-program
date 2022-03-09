@@ -14,6 +14,10 @@ Yes, I do know this program does not use Metaplex's new "Collections" feature. N
 
 ---
 
+## Support
+
+If this repo helped you or your project in any way, any tips sent to A858S5BKJhrbc4mm8VcMMRWthBgtMu2AjDkAmrEKKEdD on Solana are highly appreciated.
+
 # Staking Setup + Commands
 
 ## Reward token
