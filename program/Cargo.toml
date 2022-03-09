@@ -1,0 +1,27 @@
+[package]
+name = "staking-nft-contract"
+version = "0.0.1"
+description = "Staking NFT"
+authors = ["Rusty 0ne <4fun.and.job.offers@gmail.com>"]
+license = "Proprietary"
+edition = "2018"
+
+[features]
+no-entrypoint = []
+
+[dependencies]
+solana-program = "1.8.0"
+borsh = "0.9.0"
+borsh-derive = "0.9.0"
+serde = { version = "1.0", features = ["derive"] }
+spl-associated-token-account = {version = "1.0.3", features = [ "no-entrypoint" ]}
+spl-token = { version = "3.2.0", features = [ "no-entrypoint" ] }
+spl-token-metadata = { version = "0.0.1", features = [ "no-entrypoint" ] }
+
+[dev-dependencies]
+solana-program-test = "=1.8.0"
+solana-sdk = "=1.8.0"
+
+[lib]
+name = "staking"
+crate-type = ["cdylib", "lib"]
