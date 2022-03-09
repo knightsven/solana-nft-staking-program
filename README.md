@@ -33,7 +33,8 @@ Yes, I do know this program does not use Metaplex's new "Collections" feature. N
 ## Proof token
 
 - NOTE: This should be a 0 decimal token. Only mint the number based on however large your NFT collection is. You can mint more if needed, but it shouldn't be necessary.
-  `spl-token create-token --decimals 0`
+
+`spl-token create-token --decimals 0`
 
 `spl-token create-account <mint>`
 
