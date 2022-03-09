@@ -51,7 +51,7 @@ Yes, I do know this program does not use Metaplex's new "Collections" feature. N
 
 ## Set reward_mint, proof_mint and program_id variables in `client/src/main.rs`
 
-## run commands bellow in client directory
+## Run commands below in `client` directory
 
 `cargo build`
 
