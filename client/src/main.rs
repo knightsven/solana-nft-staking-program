@@ -246,13 +246,13 @@ fn main() {
         )
         .get_matches();
 
-    let program_id = "2YVoe2Y1pKGY4nkdMKiuQi3P7p86aNQePDV6bGEdd6gy"
+    let program_id = "EMs2exNFU4ERe658L8BGsfapaGqm6oJvGm1XHkaGsjFW"
         .parse::<Pubkey>()
         .unwrap();
-    let reward_mint = "9gw5yXb2XCkqTTywcqYj9CE3LBuEeWCNDtRqbaJ4Xc1W"
+    let reward_mint = "2LiYyZBm6kWnigiC2vTLHj9utpfY8Lz2BvEBt74QQEag"
         .parse::<Pubkey>()
         .unwrap();
-    let proof_mint = "Eurhvwdurf1f5UmqryoqscP3Xps2uibqaN7zT1AkxEhw"
+    let proof_mint = "72W9Q6hsAwsDFvdLL9zyTYPy9qr7ExqF2LufisyHMySk"
         .parse::<Pubkey>()
         .unwrap();
 
