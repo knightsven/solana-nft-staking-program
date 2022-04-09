@@ -18,6 +18,8 @@ Yes, I do know this program does not use Metaplex's new "Collections" feature. N
 
 If this repo helped you or your project in any way, any tips sent to A858S5BKJhrbc4mm8VcMMRWthBgtMu2AjDkAmrEKKEdD on Solana are highly appreciated.
 
+Contributions by https://github.com/Ru5ty0ne
+
 # Staking Setup + Commands
 
 ## Reward token
